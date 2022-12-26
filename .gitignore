@@ -1,3 +1,5 @@
 db/
 wordpress/
 apache-logs/
+
+.env
